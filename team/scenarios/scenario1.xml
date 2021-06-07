@@ -2,7 +2,7 @@
     slaProfileEnabled="false" traceVariables="true" uid="scenario1" virtualUsersStates="true">
     <!--****** POPULATION POLICY ******-->
     <population-policy name="Population1">
-        <duration-policy-entry iterations="1" time="1800" timeUnit="0" type="2"/>
+        <duration-policy-entry iterations="1" time="900" timeUnit="0" type="2"/>
         <volume-policy-entry>
             <rampup-volume-policy delayIncrement="3.0"
                 delayTypeIncrement="1" initialUserNumber="0"
