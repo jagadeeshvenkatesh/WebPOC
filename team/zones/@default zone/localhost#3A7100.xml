@@ -1,0 +1,45 @@
+<lg-host citrixSupport="false" hostname="localhost:7100" loadWeight="1"
+    sapSupport="false" standalone="false" supportWANEmulation="false"
+    uid="0f466e55-a05e-4167-82d1-ba28232d86ad" version="7.9.1;build=20210423-80">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface
+        description="Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC"
+        enabled="false" isLoopBack="false" name="wlan0">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="laptop-8gcvfnpp">
+            <ip value="192.168.0.110"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:85cf:369:67e2:f6a3%wlan0">
+            <ip value="fe80:0:0:0:85cf:369:67e2:f6a3%wlan0"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="127.0.0.1">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Realtek PCIe GbE Family Controller"
+        enabled="false" isLoopBack="false" name="eth5">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:8998:8eba:56bb:1ccb%eth5">
+            <ip value="fe80:0:0:0:8998:8eba:56bb:1ccb%eth5"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Bluetooth Device (Personal Area Network)"
+        enabled="false" isLoopBack="false" name="eth1">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:f0f7:52a1:b9ac:318f%eth1">
+            <ip value="fe80:0:0:0:f0f7:52a1:b9ac:318f%eth1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</lg-host>

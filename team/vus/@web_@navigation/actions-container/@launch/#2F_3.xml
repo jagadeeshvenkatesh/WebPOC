@@ -1,0 +1,55 @@
+<http-page executeResourcesDynamically="false" name="/_3"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/4c41404e-6168-4dcf-bcb2-8aa7ef086db3.zip"
+    slaProfileEnabled="false" thinkTime="105"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4c41404e-6168-4dcf-bcb2-8aa7ef086db3">
+    <embedded-action>daf06ae5-4bd6-42da-bb85-702b4d572a47</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_37f956e5-6154-4388-b6e7-9960df37fe11.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="2"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/4c41404e-6168-4dcf-bcb2-8aa7ef086db3.zip"
+    recordedResponseCode="200" responseSize="41948"
+    serverUid="www-rel-t.test.tb-aws.com" slaProfileEnabled="false"
+    uid="daf06ae5-4bd6-42da-bb85-702b4d572a47" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f4d331c2-ce3d-40d2-9dce-989704903892.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f4d331c2-ce3d-40d2-9dce-989704903892.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;91&quot;, &quot;Chromium&quot;;v=&quot;91&quot;"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en-IN;q=0.9,en;q=0.8"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html; charset=utf-8&#xd;
+x-powered-by: Express&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+x-serial: 122774&#xd;
+x-akamai-ssl-client-sid: FkN6z1CUKvdAGbrFJufmzA==&#xd;
+x-check-cacheable: YES&#xd;
+x-akamai-transformed: 9 - 0 pmb=mTOE,3&#xd;
+cache-control: private, must-revalidate, max-age=86400&#xd;
+expires: Tue, 08 Jun 2021 09:32:52 GMT&#xd;
+date: Mon, 07 Jun 2021 09:32:52 GMT&#xd;
+content-length: 8564&#xd;
+set-cookie: ak_bmsc=0E808532930B5AA3FD6FD4B960671CB975EF8D6D9B210000C4E7BD6027D8AD13~pl0sHV/eqJ4uNdRmpzB9ZYq7oR49PPi3RR0jhP953ld+GBaPvg0BPs6cPeVD3bJqP42X4ncZ0R/AQ3okKtpGnjCYxz/rW2l841g/ahsX0tra7nSWTBeBvn2YLiGujoVLahtuwFo6FLRQvACa5MHStxkGOoCcJGfI1VjOmhMZPNGB1oufJ6TN4s8tC4IIaVpKHefOdQnAqJ6va0S9NOItxBr7LW0NCf3nzLqC9HJfx24Rg=; expires=Mon, 07 Jun 2021 11:32:52 GMT; max-age=7200; path=/; domain=.test.tb-aws.com; HttpOnly&#xd;
+set-cookie: akavpau_perfvp=1623058672~id=eae6a19369346955320cfb893d4b170e; Path=/; HttpOnly; Secure; SameSite=None&#xd;
+set-cookie: bm_mi=757DD3E64B15EDEDD7ECAC424D6CDF40~MymHDduVmdWfW8sRlZcXMP3PKq60gRmmcNm6YfhGH8Gj61BXojdSBDRl0TekQnKtfln2x+7/R9WPgzjPZjsLHx37R9/NMwmHmfOAKeMO/viR7lyq75GjXuH03PERC3RHWHJg5oz3+HLwccpaYiSsA0fMYKZzf+8S0InAn5wx7gOm0lgWuG/QRrr1POjqC/jRrlXrcIBM6jSGWDMRDe9rVZrdG4jdsZgINyM9ZPjlqfs=; Domain=.test.tb-aws.com; Path=/; Max-Age=0; HttpOnly&#xd;
+set-cookie: bm_sz=DB3DE5B8F61BE631BDD0FB348BC88995~YAAQbY3vdTuXYdh5AQAAxFjR5Qywu9NSKMl2rZT88zmJYa1s60KmiIbNQOZedEaCNvk7Vrc0zRg7TyRyj9qudLkRRqXckGldyjcHSJtewCOvSVbO4olXtssrbhPJxfQEc8Nv6ZJ7YvbxMxgZTKKCFmIUWO+c8BBqoYIBnUUOMY7M26jZS+6FiEmKj5BU/ukv; Domain=.tb-aws.com; Path=/; Expires=Mon, 07 Jun 2021 13:32:52 GMT; Max-Age=14400; HttpOnly&#xd;
+set-cookie: _abck=772CD2FB4CC02489A4BDAE052E44151F~-1~YAAQbY3vdTyXYdh5AQAAxFjR5QZz+I3/I9kt7YMGwihiuHGOBSnJsay3o1N496Jac6hpexNd9YrRl1/Yl6lDISX1M7j7b54sxkPulKRfSRPCuU0lh7eI7cp2T05D+QH4yiLFLUT6Lg/vCXEc1Kf90j3y8aF90Gmog1nivAMJaPkMEns+DD2K39aEWIFb+ddxLHMm3ODnmMXYaGfHapWO4zYIyabG9J4BB4midl4Nq6VxOjfO8djU906kRLkUTUPZ7re0RL7Q+iU7lxOMCmsrfadAoh9uQMJdG8vwi52gDSZ6sa+fPte992V10BRa0VnFRG4wq221Dw2KTjc18Z8fTqy1s7ax0RjOcdIhES4MOUqRiL74+M/GroOT2B4=~-1~-1~-1; Domain=.tb-aws.com; Path=/; Expires=Tue, 07 Jun 2022 09:32:52 GMT; Max-Age=31536000; Secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tacos" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="11c5a961-f137-4a0e-b743-24fbd6e3b031" weightsEnabled="false">
+    <weighted-embedded-action uid="f03a07a8-d62f-4c82-a7a5-855ca01796ed"/>
+    <weighted-embedded-action uid="b86e8eae-a8ac-4e20-bcd7-a6828d35884c"/>
+    <weighted-embedded-action uid="1b215297-ab71-4e6e-89ec-874150ecafd3"/>
+</basic-logical-action-container>

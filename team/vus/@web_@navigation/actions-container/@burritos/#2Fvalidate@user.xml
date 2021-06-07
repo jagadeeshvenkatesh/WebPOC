@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false" name="/validateUser"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/cee88b11-f51f-48bb-942e-4fb1eccf06f7.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="cee88b11-f51f-48bb-942e-4fb1eccf06f7">
+    <embedded-action>159c3aab-7f40-44d4-abbc-9ef8e536da20</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_ec5a35dd-da01-4be4-9b66-fde91827b826.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/validateUser" path="/validateUser" postType="4"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/cee88b11-f51f-48bb-942e-4fb1eccf06f7.zip"
+    recordedResponseCode="200" responseSize="34"
+    serverUid="www-rel-t.test.tb-aws.com" slaProfileEnabled="false"
+    uid="159c3aab-7f40-44d4-abbc-9ef8e536da20" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b6bf02be-2743-4a2d-bf11-3b0e5a6e80a7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b6bf02be-2743-4a2d-bf11-3b0e5a6e80a7.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www-rel-t.test.tb-aws.com/food/burritos"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="bm_sz=DB3DE5B8F61BE631BDD0FB348BC88995~YAAQbY3vdTuXYdh5AQAAxFjR5Qywu9NSKMl2rZT88zmJYa1s60KmiIbNQOZedEaCNvk7Vrc0zRg7TyRyj9qudLkRRqXckGldyjcHSJtewCOvSVbO4olXtssrbhPJxfQEc8Nv6ZJ7YvbxMxgZTKKCFmIUWO+c8BBqoYIBnUUOMY7M26jZS+6FiEmKj5BU/ukv; _gcl_au=1.1.122726354.1623058371; _cs_mk=0.6075795346517685_1623058371510; JSESSIONID=8EDE6149E4FC53EFAB07EAD82AE91985; CSRFToken=eb8a377b-52b1-4a5c-a529-6951536137d5; AWSELB=CB99E547040CBE1AD82825213E6E60B9792F436D9BCDBC41E517D612BAF17930912636121CE55251F112E5A6DEE6A93C82F4B160388745B36C3B1BD54D65F572CAC6CE4DBC; AWSELBCORS=CB99E547040CBE1AD82825213E6E60B9792F436D9BCDBC41E517D612BAF17930912636121CE55251F112E5A6DEE6A93C82F4B160388745B36C3B1BD54D65F572CAC6CE4DBC; ak_bmsc=0E808532930B5AA3FD6FD4B960671CB975EF8D6D9B210000C4E7BD6027D8AD13~pljqrW/ebaARj3n4z1e3VcU7GHj6b3ij28citK3m0HA6iN5bm0rMqV30qltHb0YYG00zBfDml83Lheqv8R7/WynaDpNeXVJsSHxR/TkOlQtH0kbTtULq/v0U8WsmuCAPpDMacAnA1gWP52ll0lyeZ89Nt79LSq3jIeyDPfx/2cn08hhO9JCYTbYFyxvSLjKXB+kndTrpkbGCJS4SjwbEcCxfTqjeipsa9rIgxnWreZqpX480xfPpAAHUEvfrPn+WRB; _ga=GA1.2.166578020.1623058409; _gid=GA1.2.1020266183.1623058409; _scid=a26f512d-e2b0-49f0-8f2f-5be825b00d82; _fbp=fb.1.1623058409681.1564778358; seerses=e; seerses=e; seerid=97657.33328150903; seerid=97657.33328150903; _sctr=1|1623004200000; _ga=GA1.4.166578020.1623058409; _gid=GA1.4.1020266183.1623058409; __utmc=161481402; __utma=161481402.166578020.1623058409.1623058444.1623058444.1; __utmz=161481402.1623058444.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; _pin_unauth=dWlkPU5EaGpaR00zWm1NdE5HWmhOeTAwWXpKa0xUaG1ZV010TWpKbVpEUXpZemd3TmpjNA; site-referrer=tacobell; RES_TRACKINGID=688972505972147; RES_SESSIONID=332807488964786; ResonanceSegment=1; _gat_UA-28553997-17=1; _dc_gtm_UA-28553997-17=1; AWSALB=SDSrh8cgEw2WX9J3FO3weqSDTr2m20maZWbAUZELtdH9IwHWRbaWByhTCBjMNCsTrf09Mq2VhcZD90rvJ+Aa4E6IvPq5KEk7p313oZSeOSroRPd6SThihPvHBSKd; AWSALBCORS=SDSrh8cgEw2WX9J3FO3weqSDTr2m20maZWbAUZELtdH9IwHWRbaWByhTCBjMNCsTrf09Mq2VhcZD90rvJ+Aa4E6IvPq5KEk7p313oZSeOSroRPd6SThihPvHBSKd; __utmb=161481402.2.10.1623058444; _dd_s=rum=1&amp;id=113cdc4f-9d04-46cd-83d9-7400627c99d5&amp;created=1623058370717&amp;expire=1623059471293&amp;logs=0; akavpau_perfvp=1623058874~id=78b1b03fa2c8fb3ab256a90d334ae6b7; _uetsid=6ae14230c77311ebad00ed8ea693082e; _uetvid=6ae20770c77311ebb7a98d180e3e0704; bm_sv=2B78A1271C43AA85943C7C361820248B~/Lx5TDaoLZTo4jA5nMH3XPisCAvN8vUd9FIoIjBhc5PhPSGiDWsqbeptupzmzaC7tMElnrSgDe5uXQjqVNq90z7LhH1d/hpFGxo90DyCO3wH0cFjFtSvT9rf9sXee9tTVb/98bLtvGwrqcVLNIACVTC92bY75E+gnJyMHgkN6b0=; _abck=772CD2FB4CC02489A4BDAE052E44151F~-1~YAAQbY3vdZ3DYth5AQAAH27U5Qa1V3kHZ/h3IySL1x5XR3ewJcJhlreZNQQww4NnvfG4ayKiQq3OtNqy0SDm5BbA0pAmFrhPW7RgLBV5KbzeUL1WKn6QQ+rwRjV5+SPM2w2CSxKtpCFZs1HWeohWvRRvZYyNa2zNffBOwN3uYp7s0RX1ul9T6cx1/xWXAbPBvi7hTrNjfyxmz/jXWlqEOCECx67p2rlFVuKF3lgw8yXZdhYBbEcpkpyGDzElySwlZkbTh93YlKv6sJ5zqPoe1c4nLqtKgS0y/CLgYNlJNAVJ4hLOs4W+gqTpXYCqKrBfGid8zrBtrVLbU9KnSqSHFZIcqWKABiMhQjuPZUNgmYU38nyadmz0p49jdYOG7gvoteiRFFBNlmGfTWM5K0u8j6hsWXtH2vlUnL2JX6zP+OLD6H+vZA==~-1~-1~-1"/>
+    <header name="accept-language" value="en-US,en-IN;q=0.9,en;q=0.8"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;91&quot;, &quot;Chromium&quot;;v=&quot;91&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-requested-with" value="XMLHttpRequest"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+server: Apache&#xd;
+pragma: no-cache&#xd;
+strict-transport-security: max-age=31536000 ; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-length: 34&#xd;
+x-akamai-ssl-client-sid: DauobEOopJNHKOfGTDIsvQ==&#xd;
+x-serial: 122774&#xd;
+x-check-cacheable: YES&#xd;
+cache-control: must-revalidate, max-age=86400&#xd;
+expires: Tue, 08 Jun 2021 09:36:15 GMT&#xd;
+date: Mon, 07 Jun 2021 09:36:15 GMT&#xd;
+x-cache-remote: TCP_MEM_HIT from a117-239-141-94.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)&#xd;
+set-cookie: akavpau_perfvp=1623058875~id=3d95f2be565609b5308b4401348d6a0a; Path=/; HttpOnly; Secure; SameSite=None&#xd;
+set-cookie: bm_sv=2B78A1271C43AA85943C7C361820248B~/Lx5TDaoLZTo4jA5nMH3XPisCAvN8vUd9FIoIjBhc5PhPSGiDWsqbeptupzmzaC7tMElnrSgDe5uXQjqVNq90z7LhH1d/hpFGxo90DyCO3wiks4Ewduk86T3lLqKz8rXS4TaWy0O5MbsDovyQc5f0wS6nEWrYDMu2CjRI14Bhv0=; Domain=.test.tb-aws.com; Path=/; Max-Age=6998; HttpOnly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

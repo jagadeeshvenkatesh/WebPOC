@@ -1,0 +1,63 @@
+<http-page executeResourcesDynamically="false"
+    name="/food/tacos/soft-taco" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/2c577bb3-b109-49a0-83ee-8e93a4810bf6.zip"
+    slaProfileEnabled="false" thinkTime="372"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2c577bb3-b109-49a0-83ee-8e93a4810bf6">
+    <embedded-action>3610dc0c-481e-464d-bc50-82f68e657857</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_a7708ec9-d582-4547-a86f-7b9636e45a74.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/food/tacos/soft-taco"
+    path="/food/tacos/soft-taco" postType="2"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/2c577bb3-b109-49a0-83ee-8e93a4810bf6.zip"
+    recordedResponseCode="200" responseSize="153578"
+    serverUid="www-rel-t.test.tb-aws.com" slaProfileEnabled="false"
+    uid="3610dc0c-481e-464d-bc50-82f68e657857" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d3190f7d-da48-4a18-b3f6-8b4062423a6a.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d3190f7d-da48-4a18-b3f6-8b4062423a6a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://www-rel-t.test.tb-aws.com/food/tacos"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="JSESSIONID=8EDE6149E4FC53EFAB07EAD82AE91985; bm_sz=DB3DE5B8F61BE631BDD0FB348BC88995~YAAQbY3vdTuXYdh5AQAAxFjR5Qywu9NSKMl2rZT88zmJYa1s60KmiIbNQOZedEaCNvk7Vrc0zRg7TyRyj9qudLkRRqXckGldyjcHSJtewCOvSVbO4olXtssrbhPJxfQEc8Nv6ZJ7YvbxMxgZTKKCFmIUWO+c8BBqoYIBnUUOMY7M26jZS+6FiEmKj5BU/ukv; _gcl_au=1.1.122726354.1623058371; _cs_mk=0.6075795346517685_1623058371510; JSESSIONID=8EDE6149E4FC53EFAB07EAD82AE91985; CSRFToken=eb8a377b-52b1-4a5c-a529-6951536137d5; AWSELB=CB99E547040CBE1AD82825213E6E60B9792F436D9BCDBC41E517D612BAF17930912636121CE55251F112E5A6DEE6A93C82F4B160388745B36C3B1BD54D65F572CAC6CE4DBC; AWSELBCORS=CB99E547040CBE1AD82825213E6E60B9792F436D9BCDBC41E517D612BAF17930912636121CE55251F112E5A6DEE6A93C82F4B160388745B36C3B1BD54D65F572CAC6CE4DBC; ak_bmsc=0E808532930B5AA3FD6FD4B960671CB975EF8D6D9B210000C4E7BD6027D8AD13~pljqrW/ebaARj3n4z1e3VcU7GHj6b3ij28citK3m0HA6iN5bm0rMqV30qltHb0YYG00zBfDml83Lheqv8R7/WynaDpNeXVJsSHxR/TkOlQtH0kbTtULq/v0U8WsmuCAPpDMacAnA1gWP52ll0lyeZ89Nt79LSq3jIeyDPfx/2cn08hhO9JCYTbYFyxvSLjKXB+kndTrpkbGCJS4SjwbEcCxfTqjeipsa9rIgxnWreZqpX480xfPpAAHUEvfrPn+WRB; _ga=GA1.2.166578020.1623058409; _gid=GA1.2.1020266183.1623058409; _dc_gtm_UA-28553997-17=1; _scid=a26f512d-e2b0-49f0-8f2f-5be825b00d82; _fbp=fb.1.1623058409681.1564778358; seerses=e; seerses=e; seerid=97657.33328150903; seerid=97657.33328150903; _sctr=1|1623004200000; _ga=GA1.4.166578020.1623058409; _gid=GA1.4.1020266183.1623058409; _gat_UA-28553997-17=1; __utma=161481402.166578020.1623058409.1623058444.1623058444.1; __utmc=161481402; __utmz=161481402.1623058444.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __utmb=161481402.1.10.1623058444; _pin_unauth=dWlkPU5EaGpaR00zWm1NdE5HWmhOeTAwWXpKa0xUaG1ZV010TWpKbVpEUXpZemd3TmpjNA; _uetsid=6ae14230c77311ebad00ed8ea693082e; _uetvid=6ae20770c77311ebb7a98d180e3e0704; site-referrer=tacobell; RES_TRACKINGID=688972505972147; RES_SESSIONID=332807488964786; ResonanceSegment=1; bm_sv=2B78A1271C43AA85943C7C361820248B~/Lx5TDaoLZTo4jA5nMH3XPisCAvN8vUd9FIoIjBhc5PhPSGiDWsqbeptupzmzaC7tMElnrSgDe5uXQjqVNq90z7LhH1d/hpFGxo90DyCO3yjY0M2tFfGoiq+LhqjOPQIMsicMqRk44HTeVJMBdIdkakcpU0BuIPQMMhB+GOet8c=; AWSALB=EaTWv7Wd6CKOICe6g5R4WyNQq8dVdBzavxJYRkfip6ylV5WQ8bF3Mjb0yVkNCg1r4nvnvPXkpvscaNgESEezBd1sJChRJv9TkLT2GCTK/TbzxkNEp+CLAOxmtZaO; AWSALBCORS=EaTWv7Wd6CKOICe6g5R4WyNQq8dVdBzavxJYRkfip6ylV5WQ8bF3Mjb0yVkNCg1r4nvnvPXkpvscaNgESEezBd1sJChRJv9TkLT2GCTK/TbzxkNEp+CLAOxmtZaO; akavpau_perfvp=1623058761~id=ccc47a0675011f1cb57b261eca1ea4c9; _abck=772CD2FB4CC02489A4BDAE052E44151F~-1~YAAQJa1NaH86pjt5AQAAx7LS5Qa91xg7EinsObpX9jzfqp7K1JODvKBx2HHfgJCrzybiQWcqgUoZQCpHe4WQM0VndO10IxH/HvnhJViqTio8/zqVHdIBqPpHgEFeNtGDQZOjRTBMu5ZzJNXnWjJOjazHe3spvl/o2wJuZEHOEcLWWafNBSLficS+0oYP8pnVqmFx0PrKl13x0Rv+v8ZTDK+ZkjqLZm+HdD43+4mzdy+K3ZcVPEE+p+nIKCNKqFganG9Ez8TxOFvIH7ZYEm9npSO1A0ZRIlIibuTX8Vz3SFTgnS8xrxssxm8gwowHMCl1fLdvgLDLvmP4/M2+Ul098uThj8livC+uux1YlNMJQAbWeq5vMlUTz+wsK0ZEa2gosVveNXCUB48LvhoBLKdPASH3qarMkYnC1prDTQbdzjhaeYCitw==~-1~-1~-1; _dd_s=rum=1&amp;id=113cdc4f-9d04-46cd-83d9-7400627c99d5&amp;created=1623058370717&amp;expire=1623059360205&amp;logs=0"/>
+    <header name="accept-language" value="en-US,en-IN;q=0.9,en;q=0.8"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;91&quot;, &quot;Chromium&quot;;v=&quot;91&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html;charset=UTF-8&#xd;
+server: Apache&#xd;
+content-language: en&#xd;
+pragma: no-cache&#xd;
+strict-transport-security: max-age=31536000 ; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 1; mode=block&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+x-serial: 122774&#xd;
+x-akamai-ssl-client-sid: kgZ8ANx6Kuqg1eyW6Xtljw==&#xd;
+x-check-cacheable: YES&#xd;
+x-akamai-transformed: 9 26189 0 pmb=mTOE,1&#xd;
+cache-control: public, max-age=86400&#xd;
+expires: Tue, 08 Jun 2021 09:34:38 GMT&#xd;
+date: Mon, 07 Jun 2021 09:34:38 GMT&#xd;
+content-length: 26307&#xd;
+set-cookie: AWSALB=0rf0W1cYB+Xn99jGaYKmYQRzcwVUg43exzgnI6Y7c5t1UBGnf+xMVoIWgs2h5CwPwGtmpg+kCMC92UBXU+J/LHhn4JMfJ7XUWgyNpq/bQzxl7/fuF4mOYJB2p1gA; Expires=Mon, 14 Jun 2021 09:34:25 GMT; Path=/&#xd;
+set-cookie: AWSALBCORS=0rf0W1cYB+Xn99jGaYKmYQRzcwVUg43exzgnI6Y7c5t1UBGnf+xMVoIWgs2h5CwPwGtmpg+kCMC92UBXU+J/LHhn4JMfJ7XUWgyNpq/bQzxl7/fuF4mOYJB2p1gA; Expires=Mon, 14 Jun 2021 09:34:25 GMT; Path=/; SameSite=None; Secure&#xd;
+set-cookie: JSESSIONID=8EDE6149E4FC53EFAB07EAD82AE91985; Path=""; Secure; HttpOnly&#xd;
+set-cookie: CSRFToken=eb8a377b-52b1-4a5c-a529-6951536137d5; Path=/; Secure&#xd;
+x-cache-remote: TCP_MISS from a72-246-150-60.deploy.akamaitechnologies.com (AkamaiGHost/10.4.0-33449709) (-)&#xd;
+set-cookie: akavpau_perfvp=1623058778~id=aa2380a5ba7f7c6a241fd7e81290a2df; Path=/; HttpOnly; Secure; SameSite=None&#xd;
+set-cookie: bm_sv=2B78A1271C43AA85943C7C361820248B~/Lx5TDaoLZTo4jA5nMH3XPisCAvN8vUd9FIoIjBhc5PhPSGiDWsqbeptupzmzaC7tMElnrSgDe5uXQjqVNq90z7LhH1d/hpFGxo90DyCO3wF1TB59j7vWnS3zmBW4e2etLFQPuf4VzdyWob2p/0Esd9tkQRVhobOs82p9CAhQiQ=; Domain=.test.tb-aws.com; Path=/; Max-Age=7095; HttpOnly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,63 @@
+<http-page executeResourcesDynamically="false" name="/userHeaderInfo"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/a611cb2d-90f9-4f05-8359-510250cfaec2.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a611cb2d-90f9-4f05-8359-510250cfaec2">
+    <embedded-action>57d9ecf4-3935-4062-a627-78cf97264a32</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_5c8ff362-d248-4507-977d-3fb06fad43ae.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/userHeaderInfo" path="/userHeaderInfo"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/a611cb2d-90f9-4f05-8359-510250cfaec2.zip"
+    recordedResponseCode="200" responseSize="338"
+    serverUid="www-rel-t.test.tb-aws.com" slaProfileEnabled="false"
+    uid="57d9ecf4-3935-4062-a627-78cf97264a32" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d627b382-3590-4539-aff8-ca5869834225</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d627b382-3590-4539-aff8-ca5869834225.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="store"
+        recordRawValue="undefined" separator="=" value="undefined" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www-rel-t.test.tb-aws.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;91&quot;, &quot;Chromium&quot;;v=&quot;91&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="bm_sz=DB3DE5B8F61BE631BDD0FB348BC88995~YAAQbY3vdTuXYdh5AQAAxFjR5Qywu9NSKMl2rZT88zmJYa1s60KmiIbNQOZedEaCNvk7Vrc0zRg7TyRyj9qudLkRRqXckGldyjcHSJtewCOvSVbO4olXtssrbhPJxfQEc8Nv6ZJ7YvbxMxgZTKKCFmIUWO+c8BBqoYIBnUUOMY7M26jZS+6FiEmKj5BU/ukv; akavpau_perfvp=1623058673~id=62e88e0e807ab41691b70436d9e8b01b; _abck=772CD2FB4CC02489A4BDAE052E44151F~-1~YAAQbY3vdbOXYdh5AQAA9VnR5QZl7NJDKAPgubu2bgW/RBrTXJZkfVqGNkPmBseEM7gLL0Qe84PnF4WliGZ6FT2Dx5Sy+pZOk6/H5qz5SfCuyeTRGtuZW9Wc1cqvIqdW4oOnp759SpEGRk6kd72YhCD3hYCC5X8U60HcOYElEo2fxaPaAB2TZf2VtPDeo7OZOcEiWHExl0tIhPiOlYv1k04CCnq5l0qiy8F0pT1AynWnfnFLTnw/90zmp4M+YR1oKLW7d4TewLtR46MLpeXqMzjIdj5yqVy5metewAuyTSeAQOaP0QSP0JDb9+TEiGGYpk1tTPROduio6dbxXlQQv0zodQw//JV9VvlrLOEBF6J8YbAuLdkVjtQ7h0SlNstt8t0ZSA2TuK6VQw==~-1~-1~-1; ak_bmsc=0E808532930B5AA3FD6FD4B960671CB975EF8D6D9B210000C4E7BD6027D8AD13~pl+9H2zLgnRLXkpgBDz/sCK83j7VhzVoYu6A5XjyEBEPsQUb/eUHWR0JP2uwPCHUoU4NhQZdSh9PeNzMu2klhCixvVEhknQQvjOUegWuIwCgTirMplT+Y6A3DBxGzYsQKPXMxhLsil02sa/SWADlyaxQ3rRl08iHK+lL82Fl/Jy++U3uudOJMMllraPn81QKV6lm0YmxqiktE8bXtMkJwrAnMEpMy5WwstrCUVamHz94AQ0kJYcS/qFC65DfycRum0Fic8hgYrG/IJC4+gvM+TFw7grUex0vIVj5p594PyUiyfY6myWTu4kXgZ8G/EwtxflMUp+qpzP+CKgC/nDHw04UuN3QAxaRwC9TxV2nDnLqw=; dd_site_test_b7ac85ea-d982-444b-8b3f-ec90a379f810=test; dd_cookie_test_ef120ffb-682b-4461-8f3a-881fb4b2e740=test; dd_cookie_test_6b02c7cf-aef2-495a-aecb-6ecf7b137305=test; _dd_s=rum=1&amp;id=113cdc4f-9d04-46cd-83d9-7400627c99d5&amp;created=1623058370717&amp;expire=1623059270760&amp;logs=0"/>
+    <header name="accept-language" value="en-US,en-IN;q=0.9,en;q=0.8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+server: Apache&#xd;
+cache-control: public,max-age=36000&#xd;
+cache-control: no-cache="set-cookie"&#xd;
+expires: 0&#xd;
+pragma: no-cache&#xd;
+strict-transport-security: max-age=31536000 ; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-length: 338&#xd;
+x-serial: 122774&#xd;
+x-akamai-ssl-client-sid: Xkg6Z7mDmzHTJxTAB6dLuA==&#xd;
+x-check-cacheable: NO&#xd;
+date: Mon, 07 Jun 2021 09:32:54 GMT&#xd;
+set-cookie: AWSALB=HJGgltlj15NIKcjGo3xz7EommVed+fBRbT6Uo/th3JpkosiTjaKRh5ClSZ1n8fWTV3KzyGRzzWWSYBHApWf3vNfvY5KPxKdtSWhc9Ca8yQu8PX86Yh5vzXRdsOIa; Expires=Mon, 14 Jun 2021 09:32:54 GMT; Path=/&#xd;
+set-cookie: AWSALBCORS=HJGgltlj15NIKcjGo3xz7EommVed+fBRbT6Uo/th3JpkosiTjaKRh5ClSZ1n8fWTV3KzyGRzzWWSYBHApWf3vNfvY5KPxKdtSWhc9Ca8yQu8PX86Yh5vzXRdsOIa; Expires=Mon, 14 Jun 2021 09:32:54 GMT; Path=/; SameSite=None; Secure&#xd;
+set-cookie: JSESSIONID=8EDE6149E4FC53EFAB07EAD82AE91985; Path=/; Secure; HttpOnly&#xd;
+set-cookie: JSESSIONID=8EDE6149E4FC53EFAB07EAD82AE91985; Path=""; Secure; HttpOnly&#xd;
+set-cookie: CSRFToken=eb8a377b-52b1-4a5c-a529-6951536137d5; Path=/; Secure&#xd;
+set-cookie: AWSELB=CB99E547040CBE1AD82825213E6E60B9792F436D9BCDBC41E517D612BAF17930912636121CE55251F112E5A6DEE6A93C82F4B160388745B36C3B1BD54D65F572CAC6CE4DBC;PATH=/;MAX-AGE=86400&#xd;
+set-cookie: AWSELBCORS=CB99E547040CBE1AD82825213E6E60B9792F436D9BCDBC41E517D612BAF17930912636121CE55251F112E5A6DEE6A93C82F4B160388745B36C3B1BD54D65F572CAC6CE4DBC;PATH=/;MAX-AGE=86400;SECURE;SAMESITE=None&#xd;
+x-cache-remote: TCP_MISS from a104-96-220-38.deploy.akamaitechnologies.com (AkamaiGHost/10.4.2-33748240) (-)&#xd;
+set-cookie: akavpau_perfvp=1623058674~id=a62f68f27e6aeeef817b5dadc003beb1; Path=/; HttpOnly; Secure; SameSite=None&#xd;
+set-cookie: bm_sv=2B78A1271C43AA85943C7C361820248B~/Lx5TDaoLZTo4jA5nMH3XPisCAvN8vUd9FIoIjBhc5PhPSGiDWsqbeptupzmzaC7tMElnrSgDe5uXQjqVNq90z7LhH1d/hpFGxo90DyCO3wFUsFWUZcrOzYHjOjS4ig36QBJQzfBiZDisG85YA3+N3B0N1mwRf4gafpZU7HfF1Y=; Domain=.test.tb-aws.com; Path=/; Max-Age=7199; HttpOnly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

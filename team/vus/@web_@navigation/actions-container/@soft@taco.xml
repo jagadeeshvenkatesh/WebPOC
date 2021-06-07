@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="SoftTaco" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="6fe44392-215d-465a-9a97-38fd2fa5a49e" weightsEnabled="false">
+    <weighted-embedded-action uid="2c577bb3-b109-49a0-83ee-8e93a4810bf6"/>
+    <weighted-embedded-action uid="7fc2ef75-8a06-4e22-90c2-eae2c32a3403"/>
+    <weighted-embedded-action uid="ef6d08fb-d5b9-4327-9a30-ebf9a7c1402c"/>
+</basic-logical-action-container>

@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=NewWebProject
+project.version=8.2
+project.original.version=8.2
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.9.1
+project.id=2bcd131f-dab5-4ba0-976a-664876f797ab
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/TacoCTS/WebPOC.git

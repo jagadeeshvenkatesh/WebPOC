@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Burritos" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c31c568e-d783-4ba1-a4dc-d8cf8de675ae" weightsEnabled="false">
+    <weighted-embedded-action uid="d6ba800e-d349-4759-9e8b-6f72ed7d4835"/>
+    <weighted-embedded-action uid="cee88b11-f51f-48bb-942e-4fb1eccf06f7"/>
+    <weighted-embedded-action uid="cf6a299b-cf0b-43f9-a19f-578fdbf6c73c"/>
+    <weighted-embedded-action uid="0a5f00cd-f76d-418d-b377-b7a72305d5aa"/>
+</basic-logical-action-container>

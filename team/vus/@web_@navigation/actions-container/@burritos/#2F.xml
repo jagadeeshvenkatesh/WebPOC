@@ -1,0 +1,57 @@
+<http-page executeResourcesDynamically="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/0a5f00cd-f76d-418d-b377-b7a72305d5aa.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0a5f00cd-f76d-418d-b377-b7a72305d5aa">
+    <embedded-action>9c586d51-6d74-412c-8712-3fc10321ede7</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_f414e8c8-adc9-4b9e-bb43-1e78eafd06ac.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="2"
+    recordedArtifactZipFileName="team/vus/@web_@navigation/%resources%/recorded-artifacts/0a5f00cd-f76d-418d-b377-b7a72305d5aa.zip"
+    recordedResponseCode="200" responseSize="25540"
+    serverUid="www.tacobell.co.in" slaProfileEnabled="false"
+    uid="9c586d51-6d74-412c-8712-3fc10321ede7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e291d543-a067-4066-8162-d1a5db58d0f1.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e291d543-a067-4066-8162-d1a5db58d0f1.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www-rel-t.test.tb-aws.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;91&quot;, &quot;Chromium&quot;;v=&quot;91&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en-IN;q=0.9,en;q=0.8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 07 Jun 2021 09:36:16 GMT&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+pragma: no-cache&#xd;
+cache-control: max-age=0, must-revalidate, no-cache, no-store&#xd;
+expires: Sun, 07 Jun 2020 09:36:16 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: DENY&#xd;
+set-cookie: PHPSESSID=hn0tcejajrh6nd9qb4kqvgcib4; expires=Mon, 07-Jun-2021 10:36:16 GMT; Max-Age=3600; path=/; domain=www.tacobell.co.in; secure; HttpOnly&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains; preload&#xd;
+vary: Accept-Encoding&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: sameorigin&#xd;
+x-ua-compatible: IE=edge&#xd;
+cf-cache-status: DYNAMIC&#xd;
+cf-request-id: 0a876d8d6d00002e59119cf000000001&#xd;
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"&#xd;
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v2?s=bvZ9L%2BLmV9jWuHnctmcT6NPNK3yUqPX3UWZtiQ0%2FXFnonLqjZPUgiNppWCc7xeaOkoka8FavLa6P7aeURX3GDUdGotIyigphtIKKKCNxPa2TJMBipNzp7Dezx4E5ycB1"}],"group":"cf-nel","max_age":604800}&#xd;
+nel: {"report_to":"cf-nel","max_age":604800}&#xd;
+server: cloudflare&#xd;
+cf-ray: 65b8e528aa4e2e59-BOM&#xd;
+content-encoding: br&#xd;
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
